@@ -1,5 +1,6 @@
 # WHAT DRIVES THE PRICE OF A CAR? 
-[Link to used_car_prices.ipynb Jupyter Notebook](github.com/marchofnines/used_car_prices/used_car_prices.ipynb)
+[Link to used_car_prices.ipynb Jupyter Notebook](https://github.com/marchofnines/used_car_prices/blob/main/used_car_prices.ipynb)
+
 
 ## Business Question
 - How can a car dearler fine tune their inventory to optimize for sales price? Specifically ... 
