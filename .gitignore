@@ -1,0 +1,22 @@
+# .gitignore
+
+# Operating System Generated Files
+.DS_Store
+
+# Python Virtual Environments
+venv/
+
+# Python Compiled Files
+*.pyc
+
+# Environment Variables
+.env
+
+# VSCode Settings
+.vscode/
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
